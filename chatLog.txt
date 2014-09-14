@@ -1,0 +1,4 @@
+Sep 11, 2014 1:24:07 PM echoserver.EchoServer main
+INFO: Sever started
+Sep 11, 2014 1:24:10 PM echoserver.EchoServer main
+INFO: Connected to a client

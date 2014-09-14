@@ -1,0 +1,72 @@
+Sep 14, 2014 7:24:53 PM echoserver.EchoServer <init>
+INFO: Sever started
+Sep 14, 2014 7:25:10 PM echoserver.EchoServer <init>
+INFO: Connected to a client
+Sep 14, 2014 7:25:10 PM echoserver.EchoServer sendOnlineList
+INFO: a has logged in
+Sep 14, 2014 7:25:10 PM echoserver.ClientHandler run
+INFO: Received the message: CONNECT#A 
+Sep 14, 2014 7:25:32 PM echoserver.EchoServer <init>
+INFO: Connected to a client
+Sep 14, 2014 7:25:32 PM echoserver.EchoServer sendOnlineList
+INFO: b has logged in
+Sep 14, 2014 7:25:32 PM echoserver.ClientHandler run
+INFO: Received the message: CONNECT#B 
+Sep 14, 2014 7:26:00 PM echoserver.EchoServer <init>
+INFO: Connected to a client
+Sep 14, 2014 7:26:00 PM echoserver.EchoServer sendOnlineList
+INFO: a has logged in
+Sep 14, 2014 7:26:00 PM echoserver.ClientHandler run
+INFO: Received the message: CONNECT#A 
+Sep 14, 2014 7:26:01 PM echoserver.EchoServer <init>
+INFO: Connected to a client
+Sep 14, 2014 7:26:01 PM echoserver.EchoServer sendOnlineList
+INFO: a has logged in
+Sep 14, 2014 7:26:01 PM echoserver.ClientHandler run
+INFO: Received the message: CONNECT#A 
+Sep 14, 2014 7:26:02 PM echoserver.EchoServer <init>
+INFO: Connected to a client
+Sep 14, 2014 7:26:02 PM echoserver.EchoServer sendOnlineList
+INFO: a has logged in
+Sep 14, 2014 7:26:02 PM echoserver.ClientHandler run
+INFO: Received the message: CONNECT#A 
+Sep 14, 2014 7:26:58 PM echoserver.EchoServer <init>
+INFO: Connected to a client
+Sep 14, 2014 7:26:58 PM echoserver.EchoServer sendOnlineList
+INFO: a has logged in
+Sep 14, 2014 7:26:58 PM echoserver.ClientHandler run
+INFO: Received the message: CONNECT#A 
+Sep 14, 2014 7:27:05 PM echoserver.ClientHandler run
+INFO: a has closed a Connection
+Sep 14, 2014 7:27:07 PM echoserver.EchoServer <init>
+INFO: Connected to a client
+Sep 14, 2014 7:27:07 PM echoserver.EchoServer sendOnlineList
+INFO: a has logged in
+Sep 14, 2014 7:27:07 PM echoserver.ClientHandler run
+INFO: Received the message: CONNECT#A 
+Sep 14, 2014 7:27:12 PM echoserver.ClientHandler run
+INFO: a has closed a Connection
+Sep 14, 2014 7:27:14 PM echoserver.EchoServer <init>
+INFO: Connected to a client
+Sep 14, 2014 7:27:14 PM echoserver.EchoServer sendOnlineList
+INFO: g has logged in
+Sep 14, 2014 7:27:14 PM echoserver.ClientHandler run
+INFO: Received the message: CONNECT#G 
+Sep 14, 2014 7:27:18 PM echoserver.ClientHandler run
+INFO: g has closed a Connection
+Sep 14, 2014 7:27:18 PM echoserver.EchoServer <init>
+INFO: Connected to a client
+Sep 14, 2014 7:27:18 PM echoserver.EchoServer sendOnlineList
+INFO: g has logged in
+Sep 14, 2014 7:27:18 PM echoserver.ClientHandler run
+INFO: Received the message: CONNECT#G 
+Sep 14, 2014 7:27:23 PM echoserver.ClientHandler run
+INFO: g has closed a Connection
+Sep 14, 2014 7:27:25 PM echoserver.EchoServer <init>
+INFO: Connected to a client
+Sep 14, 2014 7:27:25 PM echoserver.EchoServer sendOnlineList
+INFO: r has logged in
+Sep 14, 2014 7:27:25 PM echoserver.ClientHandler run
+INFO: Received the message: CONNECT#R 
+Sep 14, 2014 7:27:30 PM echoserver.ClientHandler run
+INFO: r has closed a Connection

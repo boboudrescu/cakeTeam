@@ -1,0 +1,10 @@
+Sep 14, 2014 10:03:29 PM echoserver.EchoServer <init>
+INFO: Sever started
+Sep 14, 2014 10:03:31 PM echoserver.EchoServer <init>
+INFO: Connected to a client
+Sep 14, 2014 10:03:31 PM echoserver.EchoServer sendOnlineList
+INFO: a logged in
+Sep 14, 2014 10:03:31 PM echoserver.ClientHandler run
+INFO: Received the message: CONNECT#A 
+Sep 14, 2014 10:03:36 PM echoserver.ClientHandler run
+INFO: a has closed a Connection

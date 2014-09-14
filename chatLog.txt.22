@@ -1,0 +1,28 @@
+Sep 12, 2014 2:09:33 PM echoserver.EchoServer <init>
+INFO: Sever started
+Sep 12, 2014 2:09:42 PM echoserver.EchoServer <init>
+INFO: Connected to a client
+Sep 12, 2014 2:09:44 PM echoserver.ClientHandler run
+INFO: Received the message: #ASD 
+Sep 12, 2014 2:09:48 PM echoserver.EchoServer sendOnlineList
+INFO: sad has logged in
+Sep 12, 2014 2:09:48 PM echoserver.ClientHandler run
+INFO: Received the message: CONNECT#SAD 
+Sep 12, 2014 2:09:58 PM echoserver.ClientHandler run
+INFO: Received the message: SENCD#HI 
+Sep 12, 2014 2:10:06 PM echoserver.EchoServer sendAll
+INFO: SEND#*#sad sad sent to sad messege :sad
+Sep 12, 2014 2:10:06 PM echoserver.EchoServer sendAll
+INFO: SEND#*#sad sad sent to sad messege :sad
+Sep 12, 2014 2:10:06 PM echoserver.ClientHandler run
+INFO: Received the message: SEND#*#SAD 
+Sep 12, 2014 2:10:08 PM echoserver.ClientHandler run
+INFO: Received the message: ASDASD 
+Sep 12, 2014 2:10:09 PM echoserver.ClientHandler run
+INFO: Received the message: ASDGSDAG 
+Sep 12, 2014 2:10:11 PM echoserver.ClientHandler run
+INFO: Received the message: SEND#ASD 
+Sep 12, 2014 2:10:21 PM echoserver.ClientHandler run
+INFO: Received the message: MESSAGE#ASDAS#ASASD 
+Sep 12, 2014 2:10:28 PM echoserver.ClientHandler run
+INFO: sad has closed a Connection

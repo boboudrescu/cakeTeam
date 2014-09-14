@@ -1,0 +1,66 @@
+Sep 12, 2014 4:04:22 PM echoserver.EchoServer <init>
+INFO: Sever started
+Sep 12, 2014 4:04:34 PM echoserver.EchoServer <init>
+INFO: Connected to a client
+Sep 12, 2014 4:04:34 PM echoserver.EchoServer sendOnlineList
+INFO: a has logged in
+Sep 12, 2014 4:04:34 PM echoserver.ClientHandler run
+INFO: Received the message: CONNECT#A 
+Sep 12, 2014 4:04:50 PM echoserver.EchoServer <init>
+INFO: Connected to a client
+Sep 12, 2014 4:04:50 PM echoserver.EchoServer sendOnlineList
+INFO: b has logged in
+Sep 12, 2014 4:04:50 PM echoserver.ClientHandler run
+INFO: Received the message: CONNECT#B 
+Sep 12, 2014 4:04:56 PM echoserver.EchoServer sendAll
+INFO: SEND#*#a b sent to a messege :a
+Sep 12, 2014 4:04:56 PM echoserver.EchoServer sendAll
+INFO: SEND#*#a b sent to a messege :a
+Sep 12, 2014 4:04:56 PM echoserver.EchoServer sendAll
+INFO: SEND#*#a b sent to b messege :a
+Sep 12, 2014 4:04:56 PM echoserver.EchoServer sendAll
+INFO: SEND#*#a b sent to b messege :a
+Sep 12, 2014 4:04:56 PM echoserver.ClientHandler run
+INFO: Received the message: SEND#*#A 
+Sep 12, 2014 4:04:57 PM echoserver.EchoServer sendAll
+INFO: SEND#*#a b sent to a messege :a
+Sep 12, 2014 4:04:57 PM echoserver.EchoServer sendAll
+INFO: SEND#*#a b sent to a messege :a
+Sep 12, 2014 4:04:57 PM echoserver.EchoServer sendAll
+INFO: SEND#*#a b sent to b messege :a
+Sep 12, 2014 4:04:57 PM echoserver.EchoServer sendAll
+INFO: SEND#*#a b sent to b messege :a
+Sep 12, 2014 4:04:57 PM echoserver.ClientHandler run
+INFO: Received the message: SEND#*#A 
+Sep 12, 2014 4:04:58 PM echoserver.EchoServer sendAll
+INFO: SEND#*#ads b sent to a messege :ads
+Sep 12, 2014 4:04:58 PM echoserver.EchoServer sendAll
+INFO: SEND#*#ads b sent to a messege :ads
+Sep 12, 2014 4:04:58 PM echoserver.EchoServer sendAll
+INFO: SEND#*#ads b sent to b messege :ads
+Sep 12, 2014 4:04:58 PM echoserver.EchoServer sendAll
+INFO: SEND#*#ads b sent to b messege :ads
+Sep 12, 2014 4:04:58 PM echoserver.ClientHandler run
+INFO: Received the message: SEND#*#ADS 
+Sep 12, 2014 4:04:59 PM echoserver.ClientHandler run
+INFO: Received the message: SEND#*SD#ADS 
+Sep 12, 2014 4:05:04 PM echoserver.EchoServer sendOne
+INFO: SEND#a#ads b sent: #ads
+Sep 12, 2014 4:05:04 PM echoserver.EchoServer sendOne
+INFO: SEND#a#ads b sent: #ads
+Sep 12, 2014 4:05:04 PM echoserver.ClientHandler run
+INFO: Received the message: SEND#A#ADS 
+Sep 12, 2014 4:05:09 PM echoserver.EchoServer sendOne
+INFO: SEND#b#asd a sent: #asd
+Sep 12, 2014 4:05:09 PM echoserver.EchoServer sendOne
+INFO: SEND#b#asd a sent: #asd
+Sep 12, 2014 4:05:09 PM echoserver.ClientHandler run
+INFO: Received the message: SEND#B#ASD 
+Sep 12, 2014 4:05:12 PM echoserver.ClientHandler run
+INFO: Received the message: SEND##B#ASD 
+Sep 12, 2014 4:05:13 PM echoserver.ClientHandler run
+INFO: Received the message: SEND##B#ASD 
+Sep 12, 2014 4:05:14 PM echoserver.ClientHandler run
+INFO: Received the message: SEND##B#ASD 
+Sep 12, 2014 4:05:15 PM echoserver.ClientHandler run
+INFO: Received the message: SEND##B#ASDSDA 

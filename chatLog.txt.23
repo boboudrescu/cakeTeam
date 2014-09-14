@@ -1,0 +1,44 @@
+Sep 12, 2014 2:36:47 PM echoserver.EchoServer <init>
+INFO: Sever started
+Sep 12, 2014 2:37:06 PM echoserver.EchoServer <init>
+INFO: Connected to a client
+Sep 12, 2014 2:37:06 PM echoserver.EchoServer sendOnlineList
+INFO: b has logged in
+Sep 12, 2014 2:37:06 PM echoserver.ClientHandler run
+INFO: Received the message: CONNECT#B 
+Sep 12, 2014 2:37:15 PM echoserver.ClientHandler run
+INFO: b has closed a Connection
+Sep 12, 2014 2:37:21 PM echoserver.EchoServer <init>
+INFO: Connected to a client
+Sep 12, 2014 2:37:21 PM echoserver.EchoServer sendOnlineList
+INFO: a has logged in
+Sep 12, 2014 2:37:22 PM echoserver.ClientHandler run
+INFO: Received the message: CONNECT#A 
+Sep 12, 2014 2:37:39 PM echoserver.ClientHandler run
+INFO: Received the message: SEND#A,B#A 
+Sep 12, 2014 2:37:42 PM echoserver.ClientHandler run
+INFO: Received the message: SEND#A,A# 
+Sep 12, 2014 2:37:44 PM echoserver.EchoServer sendAll
+INFO: SEND#*#asd a sent to b messege :asd
+Sep 12, 2014 2:37:44 PM echoserver.EchoServer sendAll
+INFO: SEND#*#asd a sent to a messege :asd
+Sep 12, 2014 2:37:44 PM echoserver.EchoServer sendAll
+INFO: SEND#*#asd a sent to a messege :asd
+Sep 12, 2014 2:37:44 PM echoserver.ClientHandler run
+INFO: Received the message: SEND#*#ASD 
+Sep 12, 2014 2:37:46 PM echoserver.EchoServer sendAll
+INFO: SEND#*#d a sent to b messege :d
+Sep 12, 2014 2:37:46 PM echoserver.EchoServer sendAll
+INFO: SEND#*#d a sent to a messege :d
+Sep 12, 2014 2:37:46 PM echoserver.EchoServer sendAll
+INFO: SEND#*#d a sent to a messege :d
+Sep 12, 2014 2:37:46 PM echoserver.ClientHandler run
+INFO: Received the message: SEND#*#D 
+Sep 12, 2014 2:37:48 PM echoserver.EchoServer sendAll
+INFO: SEND#*#a a sent to b messege :a
+Sep 12, 2014 2:37:48 PM echoserver.EchoServer sendAll
+INFO: SEND#*#a a sent to a messege :a
+Sep 12, 2014 2:37:48 PM echoserver.EchoServer sendAll
+INFO: SEND#*#a a sent to a messege :a
+Sep 12, 2014 2:37:48 PM echoserver.ClientHandler run
+INFO: Received the message: SEND#*#A 

@@ -1,0 +1,120 @@
+Sep 14, 2014 8:14:35 PM echoserver.EchoServer <init>
+INFO: Sever started
+Sep 14, 2014 8:14:45 PM echoserver.EchoServer <init>
+INFO: Connected to a client
+Sep 14, 2014 8:14:45 PM echoserver.EchoServer sendOnlineList
+INFO: a logged in
+Sep 14, 2014 8:14:45 PM echoserver.ClientHandler run
+INFO: Received the message: CONNECT#A 
+Sep 14, 2014 8:15:02 PM echoserver.EchoServer sendAll
+INFO: SEND#*#a a sent to a messege :a
+Sep 14, 2014 8:15:02 PM echoserver.EchoServer sendAll
+INFO: SEND#*#a a sent to a messege :a
+Sep 14, 2014 8:15:02 PM echoserver.ClientHandler run
+INFO: Received the message: SEND#*#A 
+Sep 14, 2014 8:15:04 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to a messege :adfa
+Sep 14, 2014 8:15:04 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to a messege :adfa
+Sep 14, 2014 8:15:04 PM echoserver.ClientHandler run
+INFO: Received the message: SEND#*#ADFA 
+Sep 14, 2014 8:15:20 PM echoserver.EchoServer <init>
+INFO: Connected to a client
+Sep 14, 2014 8:15:20 PM echoserver.EchoServer sendOnlineList
+INFO: b logged in
+Sep 14, 2014 8:15:20 PM echoserver.ClientHandler run
+INFO: Received the message: CONNECT#B 
+Sep 14, 2014 8:15:32 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to a messege :adfa
+Sep 14, 2014 8:15:32 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to a messege :adfa
+Sep 14, 2014 8:15:32 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to b messege :adfa
+Sep 14, 2014 8:15:32 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to b messege :adfa
+Sep 14, 2014 8:15:32 PM echoserver.ClientHandler run
+INFO: Received the message: SEND#*#ADFA 
+Sep 14, 2014 8:15:36 PM echoserver.ClientHandler run
+INFO: b has closed a Connection
+Sep 14, 2014 8:15:40 PM echoserver.EchoServer <init>
+INFO: Connected to a client
+Sep 14, 2014 8:15:40 PM echoserver.EchoServer sendOnlineList
+INFO: g logged in
+Sep 14, 2014 8:15:40 PM echoserver.ClientHandler run
+INFO: Received the message: CONNECT#G 
+Sep 14, 2014 8:15:44 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to a messege :adfa
+Sep 14, 2014 8:15:44 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to a messege :adfa
+Sep 14, 2014 8:15:44 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to b messege :adfa
+Sep 14, 2014 8:15:44 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to g messege :adfa
+Sep 14, 2014 8:15:44 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to g messege :adfa
+Sep 14, 2014 8:15:44 PM echoserver.ClientHandler run
+INFO: Received the message: SEND#*#ADFA 
+Sep 14, 2014 8:15:44 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to a messege :adfa
+Sep 14, 2014 8:15:44 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to a messege :adfa
+Sep 14, 2014 8:15:44 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to b messege :adfa
+Sep 14, 2014 8:15:44 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to g messege :adfa
+Sep 14, 2014 8:15:44 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to g messege :adfa
+Sep 14, 2014 8:15:44 PM echoserver.ClientHandler run
+INFO: Received the message: SEND#*#ADFA 
+Sep 14, 2014 8:15:45 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to a messege :adfa
+Sep 14, 2014 8:15:45 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to a messege :adfa
+Sep 14, 2014 8:15:45 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to b messege :adfa
+Sep 14, 2014 8:15:45 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to g messege :adfa
+Sep 14, 2014 8:15:45 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to g messege :adfa
+Sep 14, 2014 8:15:45 PM echoserver.ClientHandler run
+INFO: Received the message: SEND#*#ADFA 
+Sep 14, 2014 8:15:45 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to a messege :adfa
+Sep 14, 2014 8:15:45 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to a messege :adfa
+Sep 14, 2014 8:15:45 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to b messege :adfa
+Sep 14, 2014 8:15:45 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to g messege :adfa
+Sep 14, 2014 8:15:45 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to g messege :adfa
+Sep 14, 2014 8:15:45 PM echoserver.ClientHandler run
+INFO: Received the message: SEND#*#ADFA 
+Sep 14, 2014 8:15:45 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to a messege :adfa
+Sep 14, 2014 8:15:45 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to a messege :adfa
+Sep 14, 2014 8:15:45 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to b messege :adfa
+Sep 14, 2014 8:15:45 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to g messege :adfa
+Sep 14, 2014 8:15:45 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to g messege :adfa
+Sep 14, 2014 8:15:45 PM echoserver.ClientHandler run
+INFO: Received the message: SEND#*#ADFA 
+Sep 14, 2014 8:15:46 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to a messege :adfa
+Sep 14, 2014 8:15:46 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to a messege :adfa
+Sep 14, 2014 8:15:46 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to b messege :adfa
+Sep 14, 2014 8:15:46 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to g messege :adfa
+Sep 14, 2014 8:15:46 PM echoserver.EchoServer sendAll
+INFO: SEND#*#adfa a sent to g messege :adfa
+Sep 14, 2014 8:15:46 PM echoserver.ClientHandler run
+INFO: Received the message: SEND#*#ADFA 
+Sep 14, 2014 8:15:53 PM echoserver.ClientHandler run
+INFO: g has closed a Connection
+Sep 14, 2014 8:15:54 PM echoserver.ClientHandler run
+INFO: a has closed a Connection
